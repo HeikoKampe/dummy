@@ -1,3 +1,3 @@
 (function(){
-    alert('Dude!');
+    console.log('Dude!');
 })();
